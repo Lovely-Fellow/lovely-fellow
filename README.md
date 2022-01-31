@@ -13,7 +13,7 @@
 - TailwindCSS, Bulma
 - Storyblok, CraftCMS, dotCMS, Prismic, Strapi
 - Algolia
-- Eleventy, Hugo
+- Eleventy(11ty), Hugo
 - Responsive design.
 - Pixel-perfect wbesite
 - Quick responsibility
