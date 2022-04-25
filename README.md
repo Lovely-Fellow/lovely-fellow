@@ -14,6 +14,7 @@
 - Storyblok, CraftCMS, dotCMS, Prismic, Strapi
 - Algolia
 - Eleventy(11ty), Hugo
+- Shopify
 - Responsive design.
 - Pixel-perfect wbesite
 - Quick responsibility
