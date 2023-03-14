@@ -11,10 +11,11 @@
 - PHP, Laravel, Yii
 - Vuetify, Quasar
 - TailwindCSS, Bulma
-- Storyblok, CraftCMS, dotCMS, Prismic, Strapi
+- Storyblok, CraftCMS, dotCMS, Prismic, Strapi, Sanity
 - Algolia
 - Eleventy(11ty), Hugo
 - Shopify
+- Tauri
 - Responsive design.
 - Pixel-perfect wbesite
 - Quick responsibility
