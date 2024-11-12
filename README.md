@@ -51,5 +51,5 @@
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2023 Lovely Fellow lovely.fellow@outlook.com
+  &copy; 2023 Lovely Fellow (![lovely.fellow@outlook.com](mailto:lovely.fellow@Outlook.com))
 </div>
